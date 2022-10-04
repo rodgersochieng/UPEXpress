@@ -1,0 +1,28 @@
+.navbar {
+  padding: 20px 10%;
+  background-color: #13105d;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.logo {
+  padding-right: 200px;
+}
+.logo p {
+  font-size: 30px;
+  color: darkorange;
+  font-weight: bolder;
+}
+.logo span {
+  color: white;
+  font-size: 34px;
+}
+.navs {
+  list-style: none;
+  display: flex;
+  color: darkorange;
+  font-size: x-large;
+  font-weight: bold;
+  padding: 0px 20px;
+  width: 25%;
+}
