@@ -3,7 +3,7 @@ import React from "react";
 export default function Footer() {
   return (
     <div className="footer">
-      <div className="left">
+      {/* <div className="left">
         <p>
           <span>UPE</span>Xpress
         </p>
@@ -16,11 +16,29 @@ export default function Footer() {
         </p>
       </div>
 
-      <div className="socials">
-        <h3>Follow Us </h3>
-        <a href="#">
-          <i className="fab fa-facebook">Facebook</i>
-        </a>
+      <div className="location">
+        <h2>Locate Us</h2>
+        <ul className="lbox">
+          <li>127, Westwood Towers</li>
+          <li>Nairobi</li>
+          <li>Kenya</li>
+        </ul>
+      </div>
+
+      <div className="Contacts">
+        <h3>Contact Us</h3>
+        <ul className="cbox">
+          <li>
+            Call <strong> 0729942447</strong>
+          </li>
+          <li>
+            Mail <strong>upexpress@gmail.com</strong>
+          </li>
+        </ul>
+      </div> */}
+      <hr></hr>
+      <div className="footer-bottom">
+        <p>All Rights reserved UPEXpress @2022</p>
       </div>
     </div>
   );
