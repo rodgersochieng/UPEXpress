@@ -48,9 +48,10 @@ export default function AboutUs() {
             <h2>Booking Related Questions or Request</h2>
             <p>
               Upexpress Buses Booking Relations are responsible for all external
-              corporate communication relating to Upexpress Buses. Journalists
-              can reach our Media Relations Manager directly or through the
-              contact information below.
+              <p></p>
+              corporate communication relating to Upexpress Buses. <p></p>
+              Journalists can reach our Media Relations Manager directly or
+              through the contact information below.
             </p>
             <> 0729942447</>
             <p>upexpressbuses@gmail.com</p>

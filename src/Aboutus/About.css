@@ -51,7 +51,7 @@
 }
 .ofiice {
   display: flex;
-  justify-content: space-between;
+  justify-content: space-evenly;
   align-items: center;
 }
 .cont,
@@ -61,4 +61,10 @@
   display: flex;
   align-items: center;
   justify-content: center;
+}
+.Media p {
+  color: black;
+}
+.ofiice p {
+  color: black;
 }
