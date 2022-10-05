@@ -27,6 +27,36 @@ export default function AboutUs() {
           our approach to all activities for continuous search of excellence
         </p>
       </div>
+
+      <div className="contact">
+        <h1 className="cont">Contact</h1>
+        <h2 className="help">How can we Help you ?</h2>
+        <p className="contMsg">
+          upexpress is always just an email or phone call away. On this page you
+          find direct contact details for most matters. Should you have a
+          special request or a general question, please fill out the contact
+          form below. Welcome.
+        </p>
+        <div className="ofiice">
+          <div>
+            <h2>Head Office</h2>
+            <p>Upexpress Bus Corporation</p>
+            <p>Kenya, Nairobi - Westlands</p>
+            <p>WestHeight Plaza</p>
+          </div>
+          <div className="Media">
+            <h2>Booking Related Questions or Request</h2>
+            <p>
+              Upexpress Buses Booking Relations are responsible for all external
+              corporate communication relating to Upexpress Buses. Journalists
+              can reach our Media Relations Manager directly or through the
+              contact information below.
+            </p>
+            <> 0729942447</>
+            <p>upexpressbuses@gmail.com</p>
+          </div>
+        </div>
+      </div>
     </>
   );
 }

@@ -29,7 +29,8 @@
   align-items: center;
   color: black;
 }
-.missionMsg {
+.missionMsg,
+.contMsg {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -38,6 +39,23 @@
   font-weight: bolder;
 }
 .Missionhd {
+  font-weight: lighter;
+  font-style: oblique;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.mission {
+  padding-top: 5%;
+  padding-bottom: 2%;
+}
+.ofiice {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.cont,
+.help {
   font-weight: lighter;
   font-style: oblique;
   display: flex;
