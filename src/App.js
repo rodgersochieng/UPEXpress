@@ -6,6 +6,7 @@ import AboutUs from "./Aboutus/About";
 import Home from "./HomePage/Home";
 import Booking from "./BookingPage/Booking";
 import Services from "./ServicesPage/Services";
+// import "./HomePage/Home.css";
 
 import "./Navbar/Navbar.css";
 import "./Footer /footer";
