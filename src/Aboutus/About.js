@@ -18,6 +18,15 @@ export default function AboutUs() {
         </p>
         <img className="mechanicsImg" src={EngImg} alt="mechanics" />
       </div>
+
+      <div className="mission">
+        <h1 className="Missionhd">Our Mission/Vision</h1>
+        <p className="missionMsg">
+          To provide A luxurious responsible travel experience than never before
+          <p></p>Passion: We are proud of our organization and enthusiastic in
+          our approach to all activities for continuous search of excellence
+        </p>
+      </div>
     </>
   );
 }
