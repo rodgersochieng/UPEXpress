@@ -1,0 +1,12 @@
+{
+  "routes": [
+    {
+      "id": "1",
+      "name": "  To & Fro Mombasa",
+      "route": " Mombasa via Voi via Mtito Andei via Nairobi via Kisumu to Busia"
+    },
+    {
+      "id": "2"
+    }
+  ]
+}
