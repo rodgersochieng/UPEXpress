@@ -1,0 +1,100 @@
+.gymsection {
+  display: flex;
+  align-items: center;
+}
+.fitness {
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 4%;
+  height: 600px;
+  width: 900px;
+  border-bottom-left-radius: 50px;
+}
+.gym {
+  padding-top: 3%;
+  margin-left: auto;
+}
+.spa {
+  display: flex;
+  align-items: center;
+  padding-top: 5%;
+}
+.spaImg {
+  height: 600px;
+  width: 900px;
+  margin-left: auto;
+  margin-right: auto;
+  border-bottom-right-radius: 50px;
+}
+.spaMessage {
+  margin-right: auto;
+}
+.conference {
+  display: flex;
+  align-items: center;
+  padding-top: 5%;
+}
+.conferenceMsg {
+  margin-left: auto;
+}
+.conferenceImg {
+  margin-left: auto;
+  margin-right: auto;
+  width: 900px;
+  height: 600px;
+  border-bottom-left-radius: 50px;
+}
+.pool {
+  display: flex;
+  align-items: center;
+  padding-top: 5%;
+}
+.poolImg {
+  margin-left: auto;
+  margin-right: auto;
+  width: 900px;
+  height: 600px;
+  border-bottom-right-radius: 50px;
+}
+.poolMsg {
+  margin-right: auto;
+}
+.loungeImg {
+  margin-left: auto;
+  margin-right: auto;
+  width: 900px;
+  height: 800px;
+  border-bottom-left-radius: 50px;
+}
+.lounge {
+  display: flex;
+  align-items: center;
+  padding-top: 5%;
+}
+.loungeMsg {
+  margin-left: auto;
+}
+.rooms {
+  display: flex;
+  align-items: center;
+  padding-top: 5%;
+  padding-bottom: 7%;
+}
+.roomImg {
+  margin-left: auto;
+  margin-right: auto;
+  width: 900px;
+  height: 600px;
+  border-bottom-right-radius: 50px;
+}
+.roomMsg {
+  margin-right: auto;
+}
+button {
+  background-color: #61959e;
+  color: white;
+  padding: 10px;
+  font-weight: bold;
+  border-radius: 50px;
+  border-color: palevioletred;
+}
