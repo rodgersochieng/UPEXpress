@@ -2,5 +2,11 @@ import React from "react";
 import Records from "../Records.json";
 
 export default function Booking() {
-  return;
+  return (
+    <>
+      <form action="">
+        <input placeholder=""></input>
+      </form>
+    </>
+  );
 }
