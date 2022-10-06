@@ -1,8 +1,12 @@
 import React from "react";
 import "/home/moringa/Desktop/React-project/upexpress/src/ServicesPage/Services.css";
-// import chair1 from "../images/interioir.jpg";
+import chair1 from "../images/interioir.jpg";
 import bus1 from "../images/bus1.jpg";
 import courier2 from "../images/courier2.jpg";
+
+function handleClick() {
+  return alert("Nevigate to Bookings");
+}
 
 export default function Services() {
   return (
@@ -18,7 +22,7 @@ export default function Services() {
             and Central Africa
           </p>
           <hr></hr>
-          {/* <button onClick={handleClick}>Book Now</button> */}
+          <button onClick={handleClick}>Book Now</button>
         </div>
         <img className="fitness" src={bus1} alt="interior" />
       </section>
@@ -35,19 +39,19 @@ export default function Services() {
             household name for our customers.
           </p>
           <hr></hr>
-          {/* <button onClick={handleClick}>Book Now</button> */}
+          <button onClick={handleClick}>Book Now</button>
         </div>
       </div>
-      {/* 
+
       <div className="conference">
         <div className="conferenceMsg">
-          <span>CONFERENCE AND CORPORATE ROOMS</span>
-          <h2>Welcome to a world class conference rooms</h2>
-          <p>We give you the best Meeting environment</p>
+          <span>LUXURY AND COMFORTABLE TRAVEL EXPERIENCE</span>
+          <h2>Welcome to a world Travel Experience</h2>
+          <p>Experience a blend of Luxury and confort when travelling</p>
           <hr></hr>
           <button onClick={handleClick}>Book Now</button>
         </div>
-        <img className="conferenceImg" src={conImage} alt="conferencepic" />
+        <img className="conferenceImg" src={chair1} alt="conferencepic" />
       </div>
 
       <div className="pool">
@@ -60,7 +64,7 @@ export default function Services() {
           <button onClick={handleClick}>Book Now</button>
         </div>
       </div>
-
+      {/* 
       <div className="lounge">
         <div className="loungeMsg">
           <span>LOUNGE SERVICES</span>
