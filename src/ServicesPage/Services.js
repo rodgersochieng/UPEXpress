@@ -4,6 +4,7 @@ import chair1 from "../images/interioir.jpg";
 import bus1 from "../images/bus1.jpg";
 import courier2 from "../images/courier2.jpg";
 import lobby from "../images/lobby.jpg";
+import terminal2 from "../images/terminal2.jpg";
 
 function handleClick() {
   return alert("Nevigate to Bookings");
@@ -68,7 +69,7 @@ export default function Services() {
           <button onClick={handleClick}>Book Now</button>
         </div>
       </div>
-      {/* 
+
       <div className="lounge">
         <div className="loungeMsg">
           <span>LOUNGE SERVICES</span>
@@ -77,10 +78,10 @@ export default function Services() {
           <hr></hr>
           <button onClick={handleClick}>Book Now</button>
         </div>
-        <img className="loungeImg" src={loungeImg} alt="loungeimage" />
+        <img className="loungeImg" src={terminal2} alt="loungeimage" />
       </div>
 
-      <div className="rooms">
+      {/* <div className="rooms">
         <img className="roomImg" src={roomImg} alt="roomimage" />
         <div className="roomMsg">
           <span>ROOM SERVICES</span>
