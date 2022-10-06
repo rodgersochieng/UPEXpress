@@ -7,3 +7,9 @@
 <li>Web-browser</li>
 <li>Internet connection</li>
 </ul>
+
+<h2>Technologies Used</h2>
+<p>the following have been used in this project</p>
+<ul><li> JSX</li>
+<li>CSS</li>
+</ul>
