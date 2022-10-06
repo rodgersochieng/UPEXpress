@@ -3,6 +3,7 @@ import "/home/moringa/Desktop/React-project/upexpress/src/ServicesPage/Services.
 import chair1 from "../images/interioir.jpg";
 import bus1 from "../images/bus1.jpg";
 import courier2 from "../images/courier2.jpg";
+import lobby from "../images/lobby.jpg";
 
 function handleClick() {
   return alert("Nevigate to Bookings");
@@ -55,7 +56,7 @@ export default function Services() {
       </div>
 
       <div className="pool">
-        <img className="poolImg" src={poolImg} alt="poolimage" />
+        <img className="poolImg" src={lobby} alt="poolimage" />
         <div className="poolMsg">
           <span>POOL AND JACUZZI SERVICES</span>
           <h2>Welcome to the world's most refreshing experience </h2>
