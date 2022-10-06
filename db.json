@@ -3,10 +3,14 @@
     {
       "id": "1",
       "name": "  To & Fro Mombasa",
-      "route": " Mombasa via Voi via Mtito Andei via Nairobi via Kisumu to Busia"
+      "route": " Mombasa via Voi via Mtito Andei via Nairobi via Kisumu to Busia",
+      "amount": " $100 - 700"
     },
     {
-      "id": "2"
+      "id": "2",
+      "name": " To & Fro Nairobi ",
+      "route": "Nairobi via Kericho via Nakuru via Kisumu via Ugunja to Busia",
+      "amount": " $50 - 100"
     }
   ]
 }
