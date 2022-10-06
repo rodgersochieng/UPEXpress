@@ -5,6 +5,7 @@ import bus1 from "../images/bus1.jpg";
 import courier2 from "../images/courier2.jpg";
 import lobby from "../images/lobby.jpg";
 import terminal2 from "../images/terminal2.jpg";
+import cafe from "../images/cafe.jpg";
 
 function handleClick() {
   return alert("Nevigate to Bookings");
@@ -72,8 +73,8 @@ export default function Services() {
 
       <div className="lounge">
         <div className="loungeMsg">
-          <span>LOUNGE SERVICES</span>
-          <h2>welcome to the world's most relaxing place</h2>
+          <span>EXCELLENT TERMINAL SERVICES</span>
+          <h2>We have the best bus terminals </h2>
           <p>We offer the best of comfort to easy your mind</p>
           <hr></hr>
           <button onClick={handleClick}>Book Now</button>
@@ -81,16 +82,19 @@ export default function Services() {
         <img className="loungeImg" src={terminal2} alt="loungeimage" />
       </div>
 
-      {/* <div className="rooms">
-        <img className="roomImg" src={roomImg} alt="roomimage" />
+      <div className="rooms">
+        <img className="roomImg" src={cafe} alt="roomimage" />
         <div className="roomMsg">
-          <span>ROOM SERVICES</span>
-          <h2>Welcome to the world's most luxuriuos rooms</h2>
-          <p>We offer the best of beddings to make you feel at home</p>
+          <span>EATERY & CAFE SERVICES</span>
+          <h2>Experience our cafeterias eateries</h2>
+          <p>
+            We offer the best food & washrooms at our stations to make you feel
+            at home{" "}
+          </p>
           <hr></hr>
           <button onClick={handleClick}>Book Now</button>
         </div>
-      </div> */}
+      </div>
     </>
   );
 }
