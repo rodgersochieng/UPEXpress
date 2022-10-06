@@ -7,9 +7,18 @@
   width: 500px;
   margin: 50px auto;
 }
-input {
+input,
+select {
   width: 100%;
   margin-bottom: 20px;
   padding: 15px;
   border-radius: 4px;
+}
+.receipt {
+  /* float: left; */
+  width: 100%;
+  margin-top: 100px;
+  background: white;
+  padding: 30px;
+  border-radius: 10px;
 }
