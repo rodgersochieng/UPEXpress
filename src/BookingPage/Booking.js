@@ -39,8 +39,8 @@ export default function Booking() {
         {/* <input placeholder="leaving from" type="text"></input> */}
         <label>Travelling on</label>
         <input id="date" type="date"></input>
-        <label>Returning on</label>
-        <input placeholder="leaving from" type="date"></input>
+        {/* <label>Returning on</label>
+        <input placeholder="Optional" type="date"></input> */}
 
         <button onClick={(e) => handleclick(e)} type="submit">
           Book A Receipt

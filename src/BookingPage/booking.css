@@ -21,4 +21,8 @@ select {
   background: white;
   padding: 30px;
   border-radius: 10px;
+  margin-bottom: 40%;
+}
+.receipt p {
+  color: black;
 }
