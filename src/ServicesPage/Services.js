@@ -58,9 +58,12 @@ export default function Services() {
       <div className="pool">
         <img className="poolImg" src={lobby} alt="poolimage" />
         <div className="poolMsg">
-          <span>POOL AND JACUZZI SERVICES</span>
-          <h2>Welcome to the world's most refreshing experience </h2>
-          <p>we offer the best of jacuzzi and pool experiences</p>
+          <span>OFFICE AND WAITING AREA</span>
+          <h2>Welcome to the world's most spaciously arrenged waiting area </h2>
+          <p>
+            we offer the best of reception experiences as you await your
+            depature
+          </p>
           <hr></hr>
           <button onClick={handleClick}>Book Now</button>
         </div>
