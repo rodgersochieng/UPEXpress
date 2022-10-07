@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.bbe63e2b.css",
-    "main.js": "/static/js/main.18e66111.js",
-    "static/media/interioir.jpg": "/static/media/interioir.706ab959cfc657dafc54.jpg",
-    "static/media/terminal2.jpg": "/static/media/terminal2.aa6457bafee4246f7830.jpg",
-    "static/media/bus1.jpg": "/static/media/bus1.18deea2bb9bd9917ad36.jpg",
-    "static/media/lobby.jpg": "/static/media/lobby.1398ba0ad46eff6428f9.jpg",
-    "static/media/bus3.jpg": "/static/media/bus3.af7dbb07fece5aa5412c.jpg",
-    "static/media/bus2.jpg": "/static/media/bus2.99ef0b625be9109f8357.jpg",
-    "static/media/courier2.jpg": "/static/media/courier2.f187c8250d04ad79cc71.jpg",
-    "static/media/mechanics.jpeg": "/static/media/mechanics.b6d944ca8e51253754af.jpeg",
-    "static/media/cafe.jpg": "/static/media/cafe.eefdc4102c575418b804.jpg",
-    "static/media/bus6.jpg": "/static/media/bus6.f232d93297600033721f.jpg",
-    "index.html": "/index.html",
-    "main.bbe63e2b.css.map": "/static/css/main.bbe63e2b.css.map",
-    "main.18e66111.js.map": "/static/js/main.18e66111.js.map"
+    "main.css": "/UPEXpress/static/css/main.bbe63e2b.css",
+    "main.js": "/UPEXpress/static/js/main.f60732b7.js",
+    "static/media/interioir.jpg": "/UPEXpress/static/media/interioir.706ab959cfc657dafc54.jpg",
+    "static/media/terminal2.jpg": "/UPEXpress/static/media/terminal2.aa6457bafee4246f7830.jpg",
+    "static/media/bus1.jpg": "/UPEXpress/static/media/bus1.18deea2bb9bd9917ad36.jpg",
+    "static/media/lobby.jpg": "/UPEXpress/static/media/lobby.1398ba0ad46eff6428f9.jpg",
+    "static/media/bus3.jpg": "/UPEXpress/static/media/bus3.af7dbb07fece5aa5412c.jpg",
+    "static/media/bus2.jpg": "/UPEXpress/static/media/bus2.99ef0b625be9109f8357.jpg",
+    "static/media/courier2.jpg": "/UPEXpress/static/media/courier2.f187c8250d04ad79cc71.jpg",
+    "static/media/mechanics.jpeg": "/UPEXpress/static/media/mechanics.b6d944ca8e51253754af.jpeg",
+    "static/media/cafe.jpg": "/UPEXpress/static/media/cafe.eefdc4102c575418b804.jpg",
+    "static/media/bus6.jpg": "/UPEXpress/static/media/bus6.f232d93297600033721f.jpg",
+    "index.html": "/UPEXpress/index.html",
+    "main.bbe63e2b.css.map": "/UPEXpress/static/css/main.bbe63e2b.css.map",
+    "main.f60732b7.js.map": "/UPEXpress/static/js/main.f60732b7.js.map"
   },
   "entrypoints": [
     "static/css/main.bbe63e2b.css",
-    "static/js/main.18e66111.js"
+    "static/js/main.f60732b7.js"
   ]
 }
