@@ -1,4 +1,5 @@
 import React from "react";
+import "/home/moringa/Desktop/React-project/upexpress/src/Footer /footer.css";
 
 export default function Footer() {
   return (

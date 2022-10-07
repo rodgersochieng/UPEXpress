@@ -10,7 +10,7 @@ import Services from "./ServicesPage/Services";
 
 import "./Navbar/Navbar.css";
 import "./Footer /footer";
-import "/home/moringa/Desktop/React-project/upexpress/src/Footer /footer.css";
+// import "/home/moringa/Desktop/React-project/upexpress/src/Footer /footer.css";
 
 export default function App() {
   return (
